@@ -1,16 +1,12 @@
-# practice
+# Practice
 
-A new Flutter project.
+A new Flutter project for learning and practice flutter UI/UX design form scratch and get expert in flutter application developer.
 
-## Getting Started
+## Day 1 
 
-This project is a starting point for a Flutter application.
+**First Day**, i will start form how to install and setup device and android studio for flutter development. 
+1. Then i will create our first flutter application and understanding about flutter folder structure.
+2. Then learned about how flutter application run and what is Widgets and Understanding about Scaffold, Text, Text.rich, TextSpan Widget.
+3. Then design out Text style and Text decoration that said. 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="assets/day1.png" alt="Alt Text" width="500"/>
