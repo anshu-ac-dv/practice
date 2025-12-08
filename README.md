@@ -9,4 +9,4 @@ A new Flutter project for learning and practice flutter UI/UX design form scratc
 2. Then learned about how flutter application run and what is Widgets and Understanding about Scaffold, Text, Text.rich, TextSpan Widget.
 3. Then design out Text style and Text decoration that said.
 
-<center><img src="assets/day1.png" alt="Alt Text" width="100" height="2992"/></center><center><img src="assets/day1.png" alt="Alt Text" width="100" height="2992"/></center><center><img src="assets/day1.png" alt="Alt Text" width="100" height="2992"/></center>
+<img src="assets/day1.png" alt="Alt Text" width="100" height="2992"/>
