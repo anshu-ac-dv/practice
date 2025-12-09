@@ -9,7 +9,7 @@ A new Flutter project for learning and practice flutter UI/UX design form scratc
 2. Then learned about how flutter application run and what is Widgets and Understanding about Scaffold, Text, Text.rich, TextSpan Widget.
 3. Then design out Text style and Text decoration that said.
 
-<img src="assets/day1.png" alt="Alt Text" width="100" height="2992"/>
+<img src="assets/Day1.png" alt="Alt Text" width="100" height="2992"/>
 
 
 ## Day 2
@@ -17,6 +17,6 @@ A new Flutter project for learning and practice flutter UI/UX design form scratc
 1. Learning about home: widget to navigate by default root directory of an application.
 2. And also learning about how to generate random number in flutter application.
 
-<img src="assets/day2.png" alt="Alt Text" width="100" height="2992"/>
+<img src="assets/Day2.png" alt="Alt Text" width="100" height="2992"/>
 
 
