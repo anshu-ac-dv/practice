@@ -11,10 +11,4 @@ A new Flutter project for learning and practice flutter UI/UX design form scratc
 
 <img src="assets/day1.png" alt="Alt Text" width="100" height="2992"/>
 
-## Day 2 
-
-1. Learning about home: widget to navigate by default root directory of an application.
-2. And also learning about how to generate random number in flutter application.
-
-<img src="assets/day2.png" alt="Alt Text" width="100" height="2992"/>
 
