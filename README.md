@@ -19,4 +19,10 @@ A new Flutter project for learning and practice flutter UI/UX design form scratc
 
 <img src="assets/Day2.png" alt="Alt Text" width="100" height="2992"/>
 
+## Day 3
 
+1. Learning about how to add image in flutter application.
+2. How to add icons in flutter application.
+
+<img src="assets/Day3.png" alt="Alt Text" width="100" height="2992"/>
+<img src="assets/Day_3.png" alt="Alt Text" width="100" height="2992"/>
