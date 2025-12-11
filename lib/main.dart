@@ -54,10 +54,10 @@ class MyApp2 extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Learning Flutter',
-      //home: Dashboard(),
+      home: Dashboard(),
       //home: RandomValue(),
       //home: AddingImages(),
-      home: AddingIcons(),
+      //home: AddingIcons(),
     );
   }
 }
