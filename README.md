@@ -26,3 +26,11 @@ A new Flutter project for learning and practice flutter UI/UX design form scratc
 
 <img src="assets/Day3.png" alt="Alt Text" width="100" height="2992"/>
 <img src="assets/Day_3.png" alt="Alt Text" width="100" height="2992"/>
+
+## Day 4 
+
+1. Learning about container widget and how to design a container.
+2. Then also learn about create and design a Elevated button.
+
+<img src="assets/Day4.png" alt="Alt Text" width="100" height="2992"/>
+<img src="assets/Day_4.png" alt="Alt Text" width="100" height="2992"/>

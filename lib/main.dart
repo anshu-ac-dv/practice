@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:practice/screens/adding_icons.dart';
 import 'package:practice/screens/adding_images.dart';
+import 'package:practice/screens/container_screen.dart';
 import 'package:practice/screens/dashboard.dart';
+import 'package:practice/screens/design_button.dart';
 import 'package:practice/screens/random_value.dart';
 
 void main() {
@@ -54,10 +56,12 @@ class MyApp2 extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Learning Flutter',
-      home: Dashboard(),
+      //home: Dashboard(),
       //home: RandomValue(),
       //home: AddingImages(),
       //home: AddingIcons(),
+      //home: ContainerScreen(),
+      home: DesignButton(),
     );
   }
 }
