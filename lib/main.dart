@@ -5,6 +5,7 @@ import 'package:practice/screens/container_screen.dart';
 import 'package:practice/screens/dashboard.dart';
 import 'package:practice/screens/design_appbar.dart';
 import 'package:practice/screens/design_button.dart';
+import 'package:practice/screens/drawer.dart';
 import 'package:practice/screens/listview_builder.dart';
 import 'package:practice/screens/listview_design.dart';
 import 'package:practice/screens/random_value.dart';
@@ -66,10 +67,11 @@ class MyApp2 extends StatelessWidget {
       //home: AddingIcons(),
       //home: ContainerScreen(),
       //home: DesignButton(),
-      //home: DesignAppbar(),
+      home: DesignAppbar(),
       //home: RowColumnExpanded(),
       //home: ListviewDesign(),
-      home: ListviewBuilder(),
+      //home: ListviewBuilder(),
+      //home: MyDrawer(),
     );
   }
 }
