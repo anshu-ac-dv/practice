@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:practice/screens/adding_icons.dart';
 import 'package:practice/screens/adding_images.dart';
 import 'package:practice/screens/container_screen.dart';
+import 'package:practice/screens/coustom_widgets.dart';
 import 'package:practice/screens/dashboard.dart';
 import 'package:practice/screens/design_appbar.dart';
 import 'package:practice/screens/design_button.dart';
@@ -11,6 +12,7 @@ import 'package:practice/screens/listview_builder.dart';
 import 'package:practice/screens/listview_design.dart';
 import 'package:practice/screens/random_value.dart';
 import 'package:practice/screens/row_column_expanded.dart';
+import 'package:practice/screens/stack_positioned.dart';
 
 void main() {
   runApp(const MyApp2());
@@ -73,7 +75,9 @@ class MyApp2 extends StatelessWidget {
       //home: ListviewDesign(),
       //home: ListviewBuilder(),
       //home: MyDrawer(),
-      home: FloatingButton(),
+      //home: FloatingButton(),
+      //home: StackPositioned(),
+      home: CoustomWidgets(),
     );
   }
 }

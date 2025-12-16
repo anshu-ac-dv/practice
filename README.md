@@ -46,3 +46,13 @@ A new Flutter project for learning and practice flutter UI/UX design form scratc
 <img src="assets/Day_5.png" alt="Alt Text" width="100" height="2992"/>
 <img src="assets/Day__5.png" alt="Alt Text" width="100" height="2992"/>
 
+## Day6 
+
+1. Understanding about floationg action button and how to create a floating action button.
+2. And also learinig about stack widget and position widget.
+3. And last one is, how to create a custom widget.
+
+<img src="assets/Day6.png" alt="Alt Text" width="100" height="2992"/>
+<img src="assets/Day_6.png" alt="Alt Text" width="100" height="2992"/>
+<img src="assets/Day__6.png" alt="Alt Text" width="100" height="2992"/>
+
