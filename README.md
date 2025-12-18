@@ -56,3 +56,10 @@ A new Flutter project for learning and practice flutter UI/UX design form scratc
 <img src="assets/Day_6.png" alt="Alt Text" width="100" height="2992"/>
 <img src="assets/Day__6.png" alt="Alt Text" width="100" height="2992"/>
 
+## Day7
+
+1. Understanding about statefull widget and navigate one page to another.
+
+<img src="assets/Day7.png" alt="Alt Text" width="100" height="2992"/>
+<img src="assets/Day_7.png" alt="Alt Text" width="100" height="2992"/>
+
