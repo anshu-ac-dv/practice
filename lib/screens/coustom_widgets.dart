@@ -9,7 +9,7 @@ class CoustomWidgets extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.blue,
-        title: const Text("Coustom Widgets"),
+        title: const Text("Custom Widgets"),
         centerTitle: true,
       ),
       body: ListView(
