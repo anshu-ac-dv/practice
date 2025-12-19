@@ -8,6 +8,7 @@ import 'package:practice/screens/design_appbar.dart';
 import 'package:practice/screens/design_button.dart';
 import 'package:practice/screens/drawer.dart';
 import 'package:practice/screens/floating_button.dart';
+import 'package:practice/screens/form_design.dart';
 import 'package:practice/screens/listview_builder.dart';
 import 'package:practice/screens/listview_design.dart';
 import 'package:practice/screens/random_value.dart';
@@ -15,6 +16,7 @@ import 'package:practice/screens/row_column_expanded.dart';
 import 'package:practice/screens/stack_positioned.dart';
 import 'package:practice/screens/statefull_widget.dart';
 import 'package:practice/screens/form.dart';
+import 'package:practice/screens/text_field.dart';
 
 void main() {
   runApp(const MyApp2());
@@ -81,7 +83,9 @@ class MyApp2 extends StatelessWidget {
       //home: StackPositioned(),
       //home: CoustomWidgets(),
       //home: StatefullWidget(),
-      home: Form(),
+      //home: Form(),
+      //home: TextFielde(),
+      home: FormDesign(),
     );
   }
 }
