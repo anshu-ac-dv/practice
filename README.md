@@ -1,3 +1,12 @@
+# Flutter Learning
+
+## 🟢 Level 1: Flutter & Dart Foundations (The "Junior" Base)
+Target: Being able to build a functional, multi-screen app from scratch.
+
+### Flutter UI
+>* The Big Three: StatelessWidget, StatefulWidget, and BuildContext.
+>* Layout Engine: Understanding constraints ("Constraints go down, sizes go up, parent sets position").
+>* Navigation: Basic Navigator.push/pop and the concept of a "Route."
 # Practice
 
 A new Flutter project for learning and practice flutter UI/UX design form scratch and get expert in flutter application developer.
